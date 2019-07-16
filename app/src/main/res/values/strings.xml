@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">ALC 4 PHASE 1</string>
+    <string name="title_activity_main2">About ALC</string>
+    <string name="title_activity_main3">My Profile</string>
+</resources>
